@@ -1,0 +1,20 @@
+/* Apply styling to the body */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Style for the main heading */
+h1 {
+    color: #3498db;
+    text-align: center;
+}
+
+/* Style for paragraph text */
+p {
+    color: #333;
+    font-size: 18px;
+    line-height: 1.6;
+}
